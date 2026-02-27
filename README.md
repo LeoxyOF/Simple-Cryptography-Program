@@ -63,7 +63,7 @@ Output:
 
 - Analisa a string de entrada para determinar seu comprimento;
 - Aloca dinamicamente um bloco de memória para inteiros usando malloc;
-- Converte para o texto para números;
+- Converte o texto para números;
 - Retorna uma estrutura contendo:
   - Um ponteiro para o bloco de memória de inteiros alocado;
   - O número de elementos.
@@ -71,7 +71,6 @@ Output:
 ## O que eu pratiquei
 
 - Como funciona a alocação dinâmica de memória (malloc / free);
-
 - A diferença entre memória stack e memória heap;
 
 ## Atenção
