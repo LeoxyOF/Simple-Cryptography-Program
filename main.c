@@ -4,6 +4,7 @@
 
 int main(){
 
+    // Change the string and test the program if you want
     const char *Name = "John Lennon";
 
     crypto_t CryptographyName = Cryptography(Name);
@@ -13,4 +14,5 @@ int main(){
     }
 
     Crypto_Free(&CryptographyName);
+
 }
